@@ -13,10 +13,10 @@ A proposta do projeto da Safe Solution TI, apresentar todos os serviçoes de inf
 [![image](https://user-images.githubusercontent.com/88401848/175353653-dfa18f7a-768d-4bab-90f3-5c6c302af982.png)](Link)
 
 [![web 1]( )](link )
- 
+
 ## Tecnologias utilizadas 
  HTML - CSS - JavaScript
- 
+
 <div>
   <div style="display: inline_block"><br>
    <img align="center" alt="thur-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -
