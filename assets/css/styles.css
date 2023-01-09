@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+	background-color: #76c5c9;
+	color: #184c74;
+	margin: 0;
+    font-family: 'Open Sans', sans-serif;;
+}
+
+main {
+	height: 100vh;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	/*justify-content: center;*/
+}
+
+.main a {
+	height: 100vh;
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	
+}
+
+
+button{
+	border-radius: 40px;
+	font-size: 1.1rem;
+	height: 60px;
+	width: 180px;
+	border: none;
+	background-color: #76c5c9;
+    text-decoration: none;
+	color: #f0925f;
+	transition: all 0.5s linear;
+    border: 4px solid #f0925f;
+}
+
+button:hover {
+	background-color: #184c74;
+}
+
+.button a{
+	border-radius: 40px;
+	border: none;
+    height: 60px;
+	width: 200px;
+    border: solid ;
+	text-decoration: none;
+	color: #f0925f;
+	border: 4px solid #f0925f;
+    border-radius: 45px;
+	background-color: #447188;
+	text-decoration: none;
+    min-width: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: .5s ease-in-out;
+}
+
+.button{
+    margin-top: 2rem;
+    Display:flex 
+}
+
+a:hover{
+    background-color: #184c74;
+}
+
+
+h1{
+    font-size: 35px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+h2{
+   text-transform: uppercase;
+   letter-spacing: 4px;
+}
+
+h3{
+   text-transform: uppercase;
+   letter-spacing: 4px;
+}
+
+figure {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+	width: 100%;
+	background-color: #184c74;
+	padding: 8px;
+	color: #f95d2ac9;
+	position: fixed;
+	bottom: 0;
+	text-align: center;
+	font-weight: 400;
+}
+
+
+@media screen and (min-width: 640px){
+    body {
+       display: grid;
+       grid-template-columns: 1fr;
+    }
+}
+
+@media screen and (min-width: 768px){
+     body {
+        display: grid;
+        grid-template-columns: 1fr;
+     }
+}
+
+@media screen and (min-width: 960px){
+    body {
+       display: grid;
+       grid-template-columns: 1fr;
+    }
+}
