@@ -3,7 +3,7 @@
 ## Olá seja bem vindo, meu nome e Arthur!!
 
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Thur17/safe_solution_ti/blob/master/LICENSE.md)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Thur17/safe_solution_ti/blob/master/LICENSE)
 
 ## Sobre o projeto da Safe solution TI
 

@@ -7,7 +7,6 @@ body {
     font-family: 'Open Sans', sans-serif;;
 }
 
-
 .BUTTON_NPH {
     background: #3D94F6;
     background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
@@ -55,6 +54,22 @@ div.a{
 	margin-left: auto;
 	margin-right: auto;
 	text-align: center;	    
+}
+
+h1{
+   font-size: 50px;
+   text-transform: uppercase;
+   letter-spacing: 4px;
+}
+
+h2{
+  text-transform: uppercase;
+  letter-spacing: 4px;
+}
+
+h3{
+  text-transform: uppercase;
+  letter-spacing: 4px;
 }
 
 footer {
