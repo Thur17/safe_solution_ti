@@ -12,7 +12,7 @@ A proposta do projeto da Safe Solution TI, apresentar todos os serviçoes de inf
 ### Coloque traje e vamos la conferir como ficou
 [![image](https://user-images.githubusercontent.com/88401848/175353653-dfa18f7a-768d-4bab-90f3-5c6c302af982.png)](https://thur17.github.io/safe_solution_ti/)
 
-[![web 1](https://raw.githubusercontent.com/Thur17/safe_solution_ti/master/assets/img/Sit.png)](https://thur17.github.io/safe_solution_ti/)
+[![web 1](https://raw.githubusercontent.com/Thur17/safe_solution_ti/master/assets/img/fundo%20MD.png)](https://thur17.github.io/safe_solution_ti/)
 
 ## Tecnologias utilizadas 
  HTML - CSS - JavaScript
