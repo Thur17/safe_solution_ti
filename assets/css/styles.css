@@ -63,7 +63,18 @@ div.text{
 	margin-right: 8vh;
 }
 
-h1{
+
+.container {
+	display: flex;
+   flex-direction: row;
+   justify-content: flex-start;
+   align-items: center;
+   margin-left: 8vh;
+	margin-right: 8vh;
+}
+
+
+ h1{
    font-size: 50px;
    text-transform: uppercase;
    letter-spacing: 4px;
@@ -75,8 +86,8 @@ h2{
 }
 
 h3{
-  text-transform: uppercase;
-  letter-spacing: 4px;
+  
+  letter-spacing: 2px;
 }
 
 footer {
