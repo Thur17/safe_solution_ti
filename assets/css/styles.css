@@ -42,7 +42,17 @@
 }
 
 .BUTTON_NPH:hover {
-   
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 0px;
+   -moz-border-radius: 30px;
+   border-radius: 30px;
+   text-decoration: none;
 }
 div.a{
 	display: block;
