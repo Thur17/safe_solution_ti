@@ -121,7 +121,7 @@ h5 {
    justify-content: center;
    justify-content: center;
    flex-direction: column;
-   font-size: 2;
+   font-size: 2rem;
    margin-left: 5vh;
 	margin-right: 5vh;
 }
@@ -131,9 +131,44 @@ h5 {
 .form textarea,
 .form button{
    color: #337FED;
-   align-items: center;
-   display: block;
    width: 60%;
+   font-size: 2rem;
+}
+
+.form label{
+   color: #337FED;
+   line-height: 1;
+   margin-bottom: 1rem;
+}
+
+.form inpu,
+.form textarea{
+   font: inherit;
+   padding: 0,8rem;
+   margin-bottom: 2rem;
+   scroll-padding-block-start: 8px;
+   transition: border-color, box-shadow 0.2s ;
+}
+
+.form textarea {
+   min-height: 13rem;
+   resize: vertical;
+}
+
+.form input:hover,
+.form input:focus,
+.form textarea:hover,
+.form textarea:focus{
+   outline: none;
+   border-color: #337FED;
+   box-shadow: 0 0 0 3px #3D94F6;
+}
+
+.form button{
+   display: block;
+   padding: 1rem;
+   background: #337FED;
+   
 }
 
 footer {
